@@ -1,4 +1,5 @@
-## Yo, I'm me.
-I'm a [game/software developer](https://possiblyaxolotl.itch.io/) and [youtuber](https://www.youtube.com/@PossiblyAxolotl) who loves to make games with whatever weird ideas I can come up with.
-
-That's all, bye!
+- 👋 Hi, I’m @PossiblyAxolotl
+- 🕹️ I’m a [software / game developer](https://possiblyaxolotl.itch.io/) who loves to make whatever weird ideas I can think of
+- 🎥 I'm also a [YouTuber](https://www.youtube.com/PossiblyAxolotl)
+- 💬 You can join my Discord server [here](https://www.discord.com/invite/zK4J8p4) or
+- 📫 Send me an Email [possiblyaxolotl@gmail.com](mailto:possiblyaxolotl@gmail.com)
